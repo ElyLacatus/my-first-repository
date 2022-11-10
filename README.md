@@ -1,1 +1,1 @@
-Despre clonaITSchool
+# my-first-repository
